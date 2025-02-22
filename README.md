@@ -140,7 +140,7 @@ Date Input: Incorrect date formats cause errors that are not handled by exceptio
 
 Unmasked Passwords: Password input is not hidden, reducing security.
 
-Prerequisites
+## Prerequisites
 
 Python 3.x
 
