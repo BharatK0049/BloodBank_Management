@@ -46,47 +46,47 @@ View the list of donors.
 
 ## Modules
 
-I. Blood_group_selector.py
+### I. Blood_group_selector.py
 
-split(s):
+#### split(s):
 
 Splits and categorizes blood groups by their Rh factor.
 
-b_match():
+#### b_match():
 
 Determines blood compatibility using conditional statements.
 
-II. Donor_code.py
+### II. Donor_code.py
 
-Bloodbank_login():
+#### Bloodbank_login():
 
 Handles blood bank admin login with a maximum of three trials.
 
 Provides access to update the donor database or view donor records.
 
-TIME Module:
+#### TIME Module:
 
 Introduces time delays within the system.
 
-bloodbank_input():
+#### bloodbank_input():
 
 Accepts donor information (name, age, blood group) for entry into the database.
 
-show_don_list():
+#### show_don_list():
 
 Displays the list of donors stored in the blood bank database.
 
-III. Hospital_Login.py
+### III. Hospital_Login.py
 
 input_into_hospital():
 
 Authenticates hospital login using hospital ID and password.
 
-check():
+#### check():
 
 Validates hospital credentials against the database.
 
-register():
+#### register():
 
 Allows new hospitals to register and generates a unique hospital ID.
 
@@ -94,41 +94,41 @@ Supports up to five password attempts before exiting.
 
 Creates a hospital record in the MySQL database.
 
-check_patient():
+#### check_patient():
 
 Searches for patient records and retrieves donor matches if available.
 
-Eject():
+#### Eject():
 
 Deletes patient requests and updates blood inventory after successful donations.
 
-Match():
+#### Match():
 
 Displays compatible donors for a specified blood group.
 
-Login():
+#### Login():
 
 Handles hospital login with three attempts before lockout.
 
 Provides access to insert recipient data, view recipients, and match blood groups.
 
-insert_rec_data():
+#### insert_rec_data():
 
 Collects and inserts recipient details into the database.
 
-IV. Recipient_code.py
+### IV. Recipient_code.py
 
-show_rec_list():
+#### show_rec_list():
 
 Displays a list of registered recipients.
 
-V. Sql_functions.py
+### V. Sql_functions.py
 
-fetch():
+#### fetch():
 
 Retrieves required data from specified tables.
 
-### Limitations
+## Limitations
 
 Despite the system's capabilities, it has a few limitations:
 
