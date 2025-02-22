@@ -8,9 +8,9 @@ The BBMS aims to bridge the gap between blood donors, recipients, and blood bank
 
 ## Features
 
-1. Hospital Panel
+### 1. Hospital Panel
 
-### Register:
+#### Register:
 
 Allows hospitals to create an account by providing their name and password.
 
@@ -18,7 +18,7 @@ Ensures password confirmation before account creation.
 
 Generates a unique hospital ID upon successful registration.
 
-### Login:
+#### Login:
 
 Requires the hospital to log in using the generated hospital ID and registered password.
 
@@ -30,9 +30,9 @@ Upon successful login, hospital administrators can:
 
 - Find a suitable donor for a recipient.
 
-2. Blood Bank Panel
+### 2. Blood Bank Panel
 
-Login:
+#### Login:
 
 Requires the admin to log in using the default password ('peopleservice').
 
@@ -44,7 +44,7 @@ Insert donor data into the database.
 
 View the list of donors.
 
-Modules
+## Modules
 
 I. Blood_group_selector.py
 
