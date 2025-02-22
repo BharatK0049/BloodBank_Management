@@ -1,16 +1,16 @@
-## Blood Bank Management System (BBMS)
+# Blood Bank Management System (BBMS)
 
 The Blood Bank Management System (BBMS) is designed to store, process, retrieve, and analyze information related to the administration and inventory management of a blood bank. This system assists blood bank administrators in meeting blood demands by efficiently handling requests from hospitals and managing donor information.
 
-### Project Overview
+## Project Overview
 
 The BBMS aims to bridge the gap between blood donors, recipients, and blood banks through an organized procedural approach. This system is implemented using the Python programming language, leveraging its simplicity and ease of use.
 
-### Features
+## Features
 
 1. Hospital Panel
 
-Register:
+### Register:
 
 Allows hospitals to create an account by providing their name and password.
 
@@ -18,17 +18,17 @@ Ensures password confirmation before account creation.
 
 Generates a unique hospital ID upon successful registration.
 
-Login:
+### Login:
 
 Requires the hospital to log in using the generated hospital ID and registered password.
 
 Upon successful login, hospital administrators can:
 
-Insert recipient data into the hospital database.
+- Insert recipient data into the hospital database.
 
-View the list of recipients.
+- View the list of recipients.
 
-Find a suitable donor for a recipient.
+- Find a suitable donor for a recipient.
 
 2. Blood Bank Panel
 
