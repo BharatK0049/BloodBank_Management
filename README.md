@@ -2,7 +2,7 @@
 
 The Blood Bank Management System (BBMS) is designed to store, process, retrieve, and analyze information related to the administration and inventory management of a blood bank. This system assists blood bank administrators in meeting blood demands by efficiently handling requests from hospitals and managing donor information.
 
-Project Overview
+### Project Overview
 
 The BBMS aims to bridge the gap between blood donors, recipients, and blood banks through an organized procedural approach. This system is implemented using the Python programming language, leveraging its simplicity and ease of use.
 
