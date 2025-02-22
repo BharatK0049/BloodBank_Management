@@ -149,8 +149,13 @@ MySQL Database
 ## Contributors
 
 Bharat Kameswaran
+
 K Rahul
+
 V Sai Rithwik
+
 Shreya Menon
+
 Disha Pavoor
+
 BVNS Ahlad
