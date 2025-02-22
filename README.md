@@ -145,3 +145,12 @@ Unmasked Passwords: Password input is not hidden, reducing security.
 Python 3.x
 
 MySQL Database
+
+## Contributors
+
+Bharat Kameswaran
+K Rahul
+V Sai Rithwik
+Shreya Menon
+Disha Pavoor
+BVNS Ahlad
